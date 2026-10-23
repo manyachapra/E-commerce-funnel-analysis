@@ -1,0 +1,5 @@
+stage_order,funnel_stage,sessions,previous_stage_sessions,stage_conversion_pct,stage_dropoff_pct
+1,Product view,77020,,,
+2,Add to cart after view,15146,77020.0,19.67,80.33
+3,Checkout after cart,5293,15146.0,34.95,65.05
+4,Purchase after checkout,2751,5293.0,51.97,48.03
